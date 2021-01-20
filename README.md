@@ -1,17 +1,18 @@
-# MAPPING OF DISTRIBUTION COMPANY ASSET USING AI
+# MAPPING OF COMPANY ASSETS USING AI
 
 Final project for the Building AI course
 
 ## Summary
 
-The project is aim at creating an AI application for the mapping of an electricity distribution company asset by the use of existing available data to identify different assets  eg HT poles, Lt Poles, Transformers, etc.This is to be achieved without physically going to the asset location. The intention is to use Google Maps to get the asset location and its coodinates.This will help in achieving a comprehensive and accurate company asset resister and its location.    
+The project is aim at creating an AI application for the mapping of electricity company assets by the use of available data to identify different assets  eg HT poles, Lt Poles, Transformers, etc.This is to be achieved without physically going to the asset location. The intention is to use Google Maps to get the asset and its GPS location.This will help in achieving a comprehensive and accurate company asset resister.    
 
 
 ## Background
 
-This Project idea will solve the issue of inacurate company asset register, time taken to go round for the identification and recording of company assets and its associated risk with the financial implication. It also reduce the errors due to human factor.
-This problem is common to most of the developing countries distribution companies asset registers on existing and annual updates.
-What is your personal motivation? Why is this topic important or interesting?
+This Project idea will solve the issue of inacurate company asset register, time taken to go on site visits for the identification and recording of company assets and its associated risk with the financial implication. It also eliminate human errors.
+This asset registration/update is common to most of the developing country's distribution companies asset registers on existing and annual updates exercise.
+I am personally motivated to start this project after completing two courses (Element of AI and Building AI) by Reaktor and University of Helsinki coupled with my intrest of using technology to improve and perfect services to humanity.
+This is a very intreseting and important topic because it will revolutionalized the way electricity companies take inventry of its network data and asset resisters updates.
 
 This is how you make a list, if you need one:
 * problem 1
